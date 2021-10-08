@@ -1,2 +1,7 @@
 # sudoku-backtracking-with-numba
-Uses numba to speed up sudoku backtracking by ~200x
+Features
+<ul>
+<li>sub 1 second runtime for jitted function</li>
+<li>Compact functions with <20 lines</li>
+<li>Readable code with comments</li>
+</ul>
